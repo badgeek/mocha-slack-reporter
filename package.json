@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MCBrandenburg/mocha-slack-reporter.git"
+    "url": "https://github.com/badgeek/mocha-slack-reporter.git"
   },
   "keywords": [
     "mocha",
